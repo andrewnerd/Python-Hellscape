@@ -16,7 +16,7 @@ def getUserInput():
 
     print(uselessInput_Variable)
 
-if __name__ == "__name__":
+if __name__ == "__main__":
 
     goodFood()
 
