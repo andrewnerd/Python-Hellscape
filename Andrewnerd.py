@@ -9,8 +9,6 @@ cheeseBlock = "World Tour"
 def goodFood():
     print(cheeseBlock)
 
-goodFood()
-
 def getUserInput():
     print("Please Input Something, anything, please: ")
    
@@ -18,7 +16,11 @@ def getUserInput():
 
     print(uselessInput_Variable)
 
-getUserInput()
+if __name__ == "__name__":
 
-for i in range(12):
     goodFood()
+
+    getUserInput()
+
+    for i in range(12):
+        goodFood()
