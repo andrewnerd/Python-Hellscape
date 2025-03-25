@@ -4,11 +4,8 @@ import mailbox
 import math
 import time
 import calendar
-import lib
 import logging
-import _apple_support
 import warnings
-import win32
 import json
 import array
 import queue
